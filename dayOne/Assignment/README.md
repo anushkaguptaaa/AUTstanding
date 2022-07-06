@@ -4,6 +4,7 @@
 Perform the exercise given in the `02-Matplotlib Exercises.ipynb`
 
 2. Check whether the column rainfall and potential Evapo transpiration in the file `gen.csv` displays a monotonic function or not
+        [ jupyter notebook ]
 3. Use the WEKA Explorer and justify the values 
     1. MCC
     2. Kappa Stats
