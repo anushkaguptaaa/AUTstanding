@@ -11,3 +11,5 @@ Perform the exercise given in the `02-Matplotlib Exercises.ipynb`
     3. ROC Curve Value
     
     For the different pre-defined datasets present under `C:\Program Files\Weka-3-8-6\data\diabetes.arff`
+
+> NOTE: Assignment questions and their working are present in the respective language folders

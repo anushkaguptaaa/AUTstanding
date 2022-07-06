@@ -1,5 +1,6 @@
 # Tableau
-Summer Course in 2022 @ PES University
+A 2-credit Summer Course at PES University.     
+You could find my notes [here](https://anushkagupta.notion.site/Summer-Course-Tableau-2022-9ea77a0845074985845ed41df664d1ab)
 
 ### Day One     
 &rarr; Exploring WEKA       
