@@ -5,7 +5,7 @@
 Attempting to draw conclusions from a **Student Performance Dataset** whether the failure of a particular child, of a certain age, is entirely the lack of effort or there could be various reasons for the same.
 
 
-This is a 2-credit Summer Course at PES University, EC campus.    
+A 2-credit Summer Course at PES University, EC campus.    
 You could find my notes [here](https://anushkagupta.notion.site/Summer-Course-Tableau-2022-9ea77a0845074985845ed41df664d1ab)    
 The Public Tableau Workbook [here](https://public.tableau.com/app/profile/anushka7829/viz/MiniProject_16573066552810/Failurethefaultofthechildonly)
 
